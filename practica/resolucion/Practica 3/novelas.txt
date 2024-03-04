@@ -1,0 +1,4 @@
+Codigo: -3 Nombre:  Genero:  Duracion:  0.0000000000000000E+000 Director:  Precio:  2.1693987731120795E-317
+Codigo: 1 Nombre: papu Genero: terror Duracion:  1.5000000000000000E+000 Director: bauti Precio:  2.5000000000000000E+001
+Codigo: 0 Nombre: jeje Genero: aventura Duracion:  2.0000000000000000E+000 Director: serres Precio:  9.0000000000000000E+001
+Codigo: -2 Nombre: aaaaa Genero: suspenso Duracion:  3.5000000000000000E+000 Director: yo Precio:  1.0000000000000000E+000
